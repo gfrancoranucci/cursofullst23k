@@ -1,0 +1,19 @@
+.box_class{
+    background-color: lightblue;
+    width: 500px;
+    height: auto;
+    padding: 15px;
+    margin: 30px;
+    display: inline-block;
+    border: solid blue;
+}
+.box_class2{
+    background-color: lightblue;
+    width: 500px;
+    height: auto;
+    padding: 15px;
+    margin: 30px;
+    display: inline-block;
+
+    border:solid greenyellow;
+}
